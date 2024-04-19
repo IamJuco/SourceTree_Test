@@ -1,2 +1,2 @@
 # SourceTree_Test
-소스트리 연동 테스트
+SourceTree 연동 체크
